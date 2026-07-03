@@ -1,4 +1,4 @@
-<img src="image.png" width="25" height="25" align="center"> &nbsp; Hi, I'm Preston. CS student at UT Dallas focused on AI agents, automation, and cloud infrastructure, striving towards a solutions-engineering adjacent role. 
+<img src="image.png" width="25" height="25" align="center"> &nbsp; Hi, I'm Preston. CS student at UT Dallas focused on AI agents, automation, and cloud infrastructure, striving towards a solutions-engineering adjacent role.<br><br>
 
 Current Projects
 1. _Agentic Luxury Resale Scraper_ (Python, LangGraph, LangChain)
